@@ -1,0 +1,15 @@
+{
+  "name": "bower-tinder-js",
+  "version": "0.0.0",
+  "authors": [
+    "mtbtiago <tiago.ameller@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
